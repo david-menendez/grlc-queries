@@ -1,0 +1,4 @@
+#+ endpoint: http://ciudadesabiertas.linkeddata.es/sparql
+
+
+SELECT DISTINCT ?Concept WHERE {[] a ?Concept} LIMIT 100
