@@ -1,4 +1,4 @@
-#+ endpoint: httpe://dbpedia.org/sparql
+#+ endpoint: https://dbpedia.org/sparql
 
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX dbp: <http://dbpedia.org/property/>
