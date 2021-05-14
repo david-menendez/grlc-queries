@@ -3,7 +3,7 @@
 #+     "band": "?band",
 #+     "album": "?album",
 #+     "genre": "?genre",
-#+     "$anchor": "band"
+#+     "$anchor": "album"
 #+   }
 
 PREFIX dbo: <http://dbpedia.org/ontology/>
