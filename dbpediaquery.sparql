@@ -2,7 +2,6 @@
 #+ transform: {
 #+     "band": "?band",
 #+     "album": "?album",
-#+     "genre": "?genre",
 #+     "$anchor": "band"
 #+   }
 
